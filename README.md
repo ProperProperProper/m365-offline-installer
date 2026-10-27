@@ -223,8 +223,8 @@ Works even if Office was already partially removed from Add/Remove Programs — 
 
 ## Related Projects
 
-- [win11-zero-touch-usb](https://github.com/PahtrikProper/win11-zero-touch-usb) — Bootable Windows 11 USB with auto OEM driver injection
-- [PrinterMigration](https://github.com/PahtrikProper/PrinterMigration) — Intune GP-to-IP printer migration toolkit
+- [win11-zero-touch-usb](https://github.com/ProperProperProper/win11-zero-touch-usb) — Bootable Windows 11 USB with auto OEM driver injection
+- [PrinterMigration](https://github.com/ProperProperProper/PrinterMigration) — Intune GP-to-IP printer migration toolkit
 
 ---
 
